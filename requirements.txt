@@ -1,0 +1,7 @@
+keras
+tf2onnx
+tensorflow
+onnxruntime
+numpy
+pillow
+
